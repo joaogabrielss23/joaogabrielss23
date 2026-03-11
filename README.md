@@ -9,7 +9,7 @@ tenho 22 anos, moro em pirapora/SP, sou iniciante no mundo da programação e bu
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="25" height="25"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"width="25" height="25"/>
 ## Estou Estudando
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/> 
 
 <div>
 <a href="https://github.com/joaogabrielss23">
