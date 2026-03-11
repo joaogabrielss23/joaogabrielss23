@@ -1,19 +1,15 @@
 # Olá, me chamo João Gabriel ! 
 ## Bem vindo ao meu perfil GitHub 👋
-tenho 22 anos, moro em pirapora/SP, sou iniciante no mundo da programação e busco aprender e aprimorar meus conhecimentos nessa área tech
+tenho 22 anos, moro em pirapora/SP, sou iniciante no mundo da programação e busco aprender e aprimorar meus conhecimentos nesse mundo tech
 
 ## Ferramentas e Tecnologias
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"width="30" height="30"/>
-
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
+          
             
 ## Estou Estudando
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="50"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> 
 
-<div>
-<a href="https://github.com/joaogabrielss23">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?joaogabrielss23-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?joaogabrielss23-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
 
 ## Contatos:
 
